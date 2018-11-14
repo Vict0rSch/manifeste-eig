@@ -9,13 +9,14 @@ millions d'euros et la tendance est à l'augmentation de la taille de
 ces projets.
 
 # FIXME: trouver une référence pour appuyer la dernière phrase ?
+>> on peut trouver des choses dans https://www.silicon.fr/15-projets-clefs-informatique-etat-162987.html
 
 * Diagnostic
 
 En rajoutant des parties prenantes à un projet on ajoute mécaniquement
 une complexité managériale très coûteuse sur le long terme. La
 multiplication des interlocuteurs engendre un risque important de
-perdre le lien avec l' utilisateur final.
+perdre le lien avec l'utilisateur final.
 
 Plus un projet grandit, plus il devient compliqué d'être réactif, le
 temps entre chaque itération augmentant lui aussi pour de multiples
@@ -29,19 +30,24 @@ production on prend le risque d'utiliser des technologies et méthodes
 obsolètes compromettant ainsi l'avenir de la solution développée.
 
 Enfin, un projet important qui aura nécessité des sommes conséquentes
-sera d'autant plus difficile à abandonner malgré des résultats
-médiocres constatés.  Ce phénomène bien connu d'escalade de
-l'engagement, empêche l'analyse objective d'un projet et conduit à
-prendre de mauvaises décisions.
+sera d'autant plus difficile à abandonner malgré des résultats pouvant être médiocres.
+L'engagement empêche l'analyse objective d'un projet et conduit à
+prendre de mauvaises décisions. 
+>> citer les coûts irrécupérables ? https://fr.wikipedia.org/wiki/Co%C3%BBt_irr%C3%A9cup%C3%A9rable
 
 * Proposition d'avenir : "Small is beautiful"
 
 # FIXME: étoffer.
 
 # FIXME: Attention à ne pas trop verser du côté de la "composition"
+>> J'ai peur de répéter le paragraphe précédent
 
 Ce n'est pas simple, mais casser un gros projet en de plus petit
-projets incrémentales fonctionnels et valorisables indépendamment.
+projets incrémentaux fonctionnels et valorisables indépendamment a de nombreux avantages:
+  - Les briques minimales peuvent être réutilisées par d'autres projets, d'autres administrations. En augmentant son audience on donnne plus de chance lui d'être maintenue et améliorée continuellement.
+  - Les frictions de gestion de projet diminuent. On diminue alors les chances de mal se comprendre, de prendre du retard, de faire de la réunionite
+  - Les utilisateurs peuvent être intégrés plus facilement dans les itérations. Plus ils seront consultés, plus le projet sera proche de leurs attentes, donc adopté et pérénnisé.
+  - On reste à jour technologiquement. Il devient alors plus facile de suivre l'état de l'art et de faire communiquer les différentes composantes du projets puisqu'elles ont été conçues avec cette durabilité en tête.
 
 Pratiquer le pre-mortem : imaginer toutes les raisons qui ferait qu'un
 projet ne fonctionnerait pas.
@@ -53,7 +59,7 @@ projet ne fonctionnerait pas.
 Les musées doivent gérer des collections d'objets et les exposer via
 des sites web.  Ces problématiques sont parfois abordées via un seul
 outil, servant à la fois à l'inventaire des objets et à la diffusion
-des données qui les concernent (images, descriptions, etc.)
+des données qui les concernent (images, descriptions, etc.).
 
 Le défi EIG 2 du Mobilier national s'est concentré sur la conception
 et le développement d'une interface de diffusion et de valorisation.
@@ -62,9 +68,5 @@ et l'interface de diffusion a été conçue pour être paramétrable et
 se connecter à d'autres outils.
 
 Les contre-parties de cette ambition limitée : les EIG ont exploré
-à fond la question des publics et ont proposé un outil que d'autres
-musées pourront réadapter à leurs besoins.
-
-Les contre-parties de cette ambition limitée : les EIG ont exploré à
-fond la question des publics et ont proposé un outil que d'autres
+en profondeur la question des publics et ont proposé un outil que d'autres
 musées pourront réadapter à leurs besoins.
