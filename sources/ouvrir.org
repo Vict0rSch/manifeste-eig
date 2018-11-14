@@ -2,63 +2,30 @@
 
 * Idées générales
 
-L'ouverture des algorithmes et des données est une obligation pour les
-aux administrations qui permet de XXX. Mais aussi :
+L'ouverture des administrations n'est pas qu'une obligation ou un voeu pieux. Une administration a beaucoup à gagner à ouvrir tout ou partie de son fonctionnement, son logiciel, ses données et algorithmes. 
 
-- renforce leur légitimité par la médiation qu'elles mettent en place,
-- renforce leur efficacité par les contributions extérieures et la
-  réutilisation de leurs productions
-- renforce leur utilité publique par une plus grande symétrie
-  d'information.
+D'abord parce que cela fait partie de l'intérêt général et de la raison d'être de l'État ou des administrations publiques sont au service du bien commun. 
+Comment définir celui-ci si les citoyens ne savent pas ce qui est fait ni comment? 
+L'ouverture des algorithmes et des données permet à une administration de se rapprocher de ses administrés en renforçant sa légitimité par la médiation qu'elle met en place, son efficacité par les contributions extérieures et la réutilisation de ses productions et renforce son utilité publique par une plus grande symétrie d'information.
 
-Algorithme explicable, lisible, accessible, reproductible : permettre
-de comprendre les productions de façon claire, précise.
+Une administration est ouverte si elle produit des décisions explicables, intelligibles, accessibles, reproductibles : il faut permettre de comprendre les productions de façon claire, précise.
 
-- médiation, ouverture code, ouverture données
-- production de données, diffusion du savoir/ des ressources
-- contributions extérieures (github/wikipédia/hackatons etc.),
-  rayonnement
+Cette démarche passe notamment par l'ouverture du code qui est produit dans les administrations, quelle que soit la taille du problème. En ouvrant son code, l'administration expose sa solution et son problème non seulement à ses pairs qui peuvent ainsi la co-construire mais aussi aux communautés extérieures qui peuvent alors participer à la production et à l'amélioration. Un projet open source soutenu par une communauté d'utilisateurs (autres administrations, particuliers, entreprises etc.) est d'autant plus viable, robuste et participe du rayonnement de l'action publique.
 
-Construire, accompagner et diffuser des outils et méthodes explicites
-et réutilisables.
 
-# FIXME: condenser les deux parties suivantes ("concrètement" et
-# "l'ouverture c'est l'avenir...")
+* Concrètement: l'ouverture c'est le futur
 
-** Concrètement
+Pour s'ouvrir une administration doit avant tout mettre en place une médiation avec ses administrés. Il faut rendre possible la communication et les interactions avec ceux-ci. Ensuite il faut autant que possible ouvrir codes et données, diffuser le savoir et les ressources produites pour qu'elles soient challengées, améliorées, transparentes et diffusées. Ainsi, elle sera prête à recevoir des contributions extérieures telles que l'amélioration du code (github), la diffusion de ses savoirs (wikipédia) et des montées en compétences internes (hackatons). 
 
-- logiciel libre
-- ouverture des données
-- interface lisible accessible
-- transparence / symétrie / explicabilité
+Être transparent et ouvert c'est informer de façon compréhensible et précise toutes les parties prenantes sur les finalités, les modalités et les implications potentielles de l'utilisation des données. 
+Il faut communiquer auprès des personnes concernées à propos de l’usage qui sera fait de leurs données, de la façon la plus claire, explicite et transparente possible.
 
-** L’ouverture c’est de l’avenir - Ouverture vers le futur
+Il faut donc favoriser la production de logiciel libre, augmenter l'ouverture des données, encourager l'explicabilité des décision, partager les briques réutilisables développées, créer des interfaces lisibles et accessibles à tous.
 
-- Favoriser 
-- Participer 
-- Augmenter
-- Contribuer
-- Transparence des algos, des usages, des origines
-- Explicabilité
-- Ouverture des contenus
-- Diffusion 
-- Partage
-- Réutilisation
-- Accessibilité
-- Médiation
-- Compréhension
-- Lisibilité
-- Symétrie (le calculant et calculé puissent discuter de la mm chose)
+L'important n'est pas tant dans la production absolue de ces paramètres d'ouverture que dans leur réalisation: si du code est ouvert mais partagé sous forme de pdf et non de texte, il n'est pas facilement utilisable et c'est un frein à l'ouverture. De même il faut non seulement penser une interface fonctionnelle mais aussi la rendre lisible pour les daltoniens, compatible sur mobile etc.
 
-* Diagnostic (TODO)
 
-# FIXME: Rédiger
-
-* Proposition d'avenir (TODO)
-
-# FIXME: Rédiger
-
-* Exemple(s)
+* Exemple: 
 
 # FIXME: choisir un exemple
 
