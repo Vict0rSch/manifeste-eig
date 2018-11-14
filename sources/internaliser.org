@@ -7,21 +7,18 @@
 
 * Idée générale
 
-Les outils numériques occupent le quotidien des agents publics et
-permettent à ces agents de réaliser leurs missions. Ces outils sont au
-coeur du travail et les agents ressentent le besoin de s'approprier
-les systèmes d'information. Ces utilisateurs ont besoin de faire
-évoluer leurs outils informatiques pour répondre aux besoins
-changeants de leurs missions et expriment le souhait de voir évoluer
+Les outils numériques occupent le quotidien des agents publics et leur
+permettent de réaliser leurs missions. Celles-ci pouvant évoluer, les outils devraient suivre cette évolution pour répondre aux besoins changeant des agents. 
+Ces derniers expriment le souhait de voir évoluer
 leurs outils informatiques plus facilement, sans d'importants délais
 et lourdeurs administratives.
 
-Les attentes des utilisateurs concernant les outils numériques sont
-grandes, étant exposés à des logiciels de grande qualité dans leur
-usage du numérique dans la sphère privée. Ainsi, les DSI ont besoin
+Les attentes des utilisateurs concernant leurs outils numériques professionels sont
+grandes car ils sont, dans leur vie privée, exposés à des logiciels personnels de grande qualité. 
+Ainsi, les DSI ont besoin
 d'adopter plus rapidement les technologies informatiques émergentes
-pour pouvoir proposer des outils attrayants. Dans la même idée, il
-apparaît comme souhaitable de conserver une relation de proximité
+pour pouvoir proposer des outils attrayants. De même, il
+est souhaitable de conserver une relation de proximité
 entre les développeurs et le métier pour co-construire des outils
 pertinents pour l'utilisateur final. Enfin, la maîtrise des coûts
 reste un enjeu majeur pour le développement d'outils numériques.
@@ -40,17 +37,17 @@ flexibilité cache plusieurs limites.
 
 Le recours à des prestataires nécessite des appels d'offre qui
 prennent en moyenne plus d'un an juste pour la sélection d'un
-partenaire.  Toute évolution des système est lente, fastidieuse et
+partenaire.  Toute évolution des systèmes est lente, fastidieuse et
 soumise à des lourdeurs administratives. Dans ces conditions, il est
-difficile pour les système d'information d'évoluer au même rythme que
-les nouveaux technologies et les évolutions métier.
+difficile pour les systèmes d'information d'évoluer au même rythme que
+les nouvelles technologies et les besoins métier.
 
 Les DSI ayant un recours systématique aux prestataires accumulent une
 dette technique : ils n'ont plus la main de leur propre SI. Cette
 dette entraîne une relation de dépendance malsaine avec un acteur
 extérieur dont l'objectif est de maximiser ses revenus. Dans les
 faits, la maintenance et les évolutions du projet sont souvent
-sous-estimé.
+sous-estimées.
 
 Pendant la réalisation d'un projet informatique, une grande partie de
 la valeur créée l'est dans les cerveaux de ceux qui le réalisent. La
@@ -75,7 +72,7 @@ du personnel interne ainsi que par le recrutement de nouveaux talents,
 notamment des développeurs, des data scientists et des designers dans
 les DSI.
 
-Le programme EIG permet à la fois de démontrer la viabilité d'un
+Le programme EIG permet à la fois de démontrer la viabilité d'une
 réinternalisation ainsi que d'intégrer de façon temporaire dans
 l'administration des professionnels capables de faire monter en
 compétence les développeurs internes. Cela permet aussi d'exposer les
