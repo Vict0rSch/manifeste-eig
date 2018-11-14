@@ -32,50 +32,34 @@ En effet, le développement étant en général sous-traité et réalisé dans u
 * Proposition pour l'avenir
 
 Nous recommandons une approche itérative et continue visant à délivrer
-une première version minimale du produit rapidement mais avec une
-vision ie en s'appuyant d'emblée sur la technologie pertinente pour
+une première version minimale du produit rapidement avec une
+vision technique adaptée: il faut s'appuyer d'emblée sur la technologie pertinente pour
 les ambitions du produit. Par exemple si le produit vise une grande
 audience, il faut anticiper le passage à l'échelle en choisissant une
-architecture adaptée. Pour les perfectionnistes : ces contraintes ont
+architecture adaptée. Ces contraintes ont cependant
 un coût il est donc nécessaire de bien mesurer ses ambitions et ne pas
 choisir les technologies les plus robustes et les plus performantes
-PAR DEFAUT. En effet, ces technologies sont souvent les moins adaptées
+*par défaut*. En effet, ces technologies sont souvent les moins adaptées
 au développement rapide d'une "première version minimale du produit".
 
-* Exemples
+* Exemple
 
 # FIXME: ne choisir qu'un seul exemple
-
-** Le site de la DREES
-
-Le site web de la [[http://www.data.drees.sante.gouv.fr][DREES]] est une solution web HTML4 qui s'appuie sur un
-framework web commercial. Par conséquent il est impossible de le faire
-évoluer librement, tout est facturé et les développement ne peuvent
-être effectués que par une seule entreprise.  Aujourd'hui la DREES
-souhaite utiliser une autre solution pour exposer ces données afin
-d'exposer ses données de façon structurée et de gagner en
-référencement sur les moteurs de recherche.  Afin de réaliser ce site,
-on privilégie des solutions open source et une ouverture du code du
-site afin de le rendre plus évolutif.
-
-** Enrichissement d'un outil
 
 Dans la branche spécifique de la tarificaton en assurance, on calibre
 des modèles linéaires généralisés afin d'ajuster la prime aux risques.
 Pour cela, certains assureurs utilisent des outils commerciaux "clef
 en main" et qui fonctionnent en "clic-bouton". Aucune amélioration ou
 appropriation n'est possible. Le retour à des langages de
-programmation, par exemple R, a été douloureux pour les statisticiens
-qui ne savent plus coder. Néanmoins, lorsque je teste un outil
-alternatif (soit-il fermé ou ouvert), je découvre de nouvelles façon
-d'explorer, visualiser, modéliser les données.
+programmation, par exemple R, peut être douloureux pour les statisticiens mais leur rend le contrôle sur la manipulation des données.
 
-- Si j'utilise une solution propriétaire et que je suis séduit par les
-  fonctionnalités d'une autre solution.  Je dois soit changer de
+Lorsque l'on teste un outil alternatif et que l'on découvre de nouvelles façon d'explorer, visualiser, modéliser les données, on se retrouve souvent dans l'une de ces situations:
+
+- Si on utilise une solution propriétaire et qu'on est séduit par les
+  fonctionnalités d'une autre solution on doit soit changer de
   solution soit utiliser les 2.
 
-- Si j'utilise une solution open source et que je suis séduit par les
-  fonctionnalités d'une autre solution.  Je peux intégrer ces méthodes
-  et idées, il n'est pas nécessaire de changer de solution, i.e.
-  remplacer la solution actuelle.  On peut implémenter la
-  fonctionnalité ou créer une API entre un outil et un autre.
+- Si on utilise une solution open source on peut par contre intégrer ces méthodes
+  et idées, il n'est pas forcément nécessaire de changer de solution (c'est à dire
+  remplacer la solution actuelle).  On peut implémenter la
+  fonctionnalité ou créer une communication entre un outil et un autre.
