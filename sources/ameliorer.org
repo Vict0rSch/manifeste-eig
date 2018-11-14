@@ -6,7 +6,9 @@ Le besoin de remplacement apparaît en général lorsque la dette
 technique est trop importante, que la solution n'a pas évolué depuis
 trop longtemps, que toutes les personnes qui ont travaillé au
 développement de la version actuelle ont changé de poste, et qu'on
-préfère repartir de zéro (aussi pour se dire que le nouveau chef
+préfère repartir de zéro 
+
+?? (aussi pour se dire que le nouveau chef
 apporte du changement... non du remplacement).
 
 Se placer dans une logique d'amélioration demande de s'opposer à la
@@ -16,12 +18,16 @@ dépendance technique et rendant difficiles les évolutions à venir.
 
 * Diagnostic
 
-# FIXME: rédiger le tableau de façon lisible
+Les trois dimensions principales de ce mode de conception sont le cycle de vie du projet, son coût et la dette technique qu'il pourrait engendrer.
 
-# | Concept         | Amélioration                                                                                                                                                                              | Remplacement                                                                                                                                                                                                                                           |
-# | Cycle de vie    | Le processus d'amélioration est associé à des cycles d'évolution courts (remontée de bug et de demandes d'amélioration par les utilisateurs, itérations fréquentes pour les implémenter). | A l'inverse, le processus de remplacement s'impose dans un contexte de construction d'une "expression du besoin", suivi d'une rédaction d'un "cahier des charges" puis de phases de recette avant de délivrer (plusieurs années plus tard) un produit. |
-# | Coûts           | Réguliers et faibles (qqETP, UX/UI remontés par les utilisateurs)                                                                                                                         | Rares et élevés                                                                                                                                                                                                                                        |
-# | Dette technique | Un risque apparaît en cas de départ de toutes les personnes compétentes, sinon un produit documenté et dont le code source est disponible permettent une réappropriation de l'outil       | Le développement est en général sous-traité et réalisé dans une technologie propriétaire ie le code n'est pas disponible. La dette technique est donc systématique.                                                                                    |
+Le processus d'amélioration est associé à des cycles d'évolution courts: remontée de bug et de demandes d'amélioration par les utilisateurs, itérations fréquentes pour les implémenter etc. A l'inverse le processus de remplacement s'impose dans un contexte de construction d'une "expression du besoin", suivi d'une rédaction d'un "cahier des charges" puis de phases de recette avant de délivrer (plusieurs années plus tard) un produit.
+
+Lorsqu'on tend à remplacer entièrement les solutions en place, on fait face à des coûts sporadiques, rares et très élevés. À contrario lorsqu'on pense les projets dans une optique d'amélioration, les coûts sont plus réguliers et plus faibles.
+
+Enfin, lorsqu'un projet et refondu entièrement, un risque apparaît en cas de départ de toutes les personnes compétentes. 
+En effet, le développement étant en général sous-traité et réalisé dans une technologie propriétaire, le code n'est pas disponible, l'administration est tributaire du prestataire et la dette technique est donc élevée. Un produit documenté et dont le code source est disponible permettent une réappropriation de l'outil. 
+
+>>> Le parallèle remplacement / amélioration dans ce dernier cas est un peu bancal, c'est plus open/closed source
 
 * Proposition pour l'avenir
 
